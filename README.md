@@ -229,12 +229,6 @@ https://github.com/Perseen-MP/IoT-Based-Voltage-Monitoring-Intimation-System
 
 ## Open Arduino IDE
 
-Open
-
-```
-👉 ** Code:** [code.ino](Code/code.ino)
-```
-
 ---
 
 ## Install Libraries
