@@ -222,7 +222,7 @@ If abnormal voltage is detected, a push notification is sent immediately.
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Perseen-MP/REPOSITORY.git
+[git clone https://github.com/Perseen-MP/IoT-Based-Voltage-Monitoring-Intimation-System.git](https://github.com/Perseen-MP/IoT-Based-Voltage-Monitoring-Intimation-System)
 ```
 
 ---
@@ -232,7 +232,7 @@ git clone https://github.com/Perseen-MP/REPOSITORY.git
 Open
 
 ```
-Arduino_Code/main.ino
+code/code.ino
 ```
 
 ---
