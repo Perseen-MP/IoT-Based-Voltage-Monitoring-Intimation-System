@@ -232,7 +232,7 @@ https://github.com/Perseen-MP/IoT-Based-Voltage-Monitoring-Intimation-System
 Open
 
 ```
-code/code
+👉 ** Code:** [code.ino](Code/code.ino)
 ```
 
 ---
